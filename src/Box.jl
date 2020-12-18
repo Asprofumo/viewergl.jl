@@ -13,7 +13,7 @@ mutable struct Box3d
 	p1::Point3d
 	p2::Point3d
 
-	# constyructor
+	# constructor
 	function Box3d()
 		new(Point3d(0,0,0),Point3d(0,0,0))
 	end
