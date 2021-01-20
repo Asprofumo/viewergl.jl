@@ -13,6 +13,7 @@ Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 QHull = "a8468747-bd6f-53ef-9e5c-744dbc5c59e7"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+Triangle = "56f361f5-126b-55db-87fb-1c71988fcde4"
 
 [compat]
 GLFW = "^3.0.0"
